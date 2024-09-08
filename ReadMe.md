@@ -1,6 +1,7 @@
+<body>
 <b>Simple Calculator</b>
 
-A basic calculator built with HTML, CSS, and JavaScript. This project provides fundamental arithmetic operations and a clean, user-friendly interface.
+<p>A basic calculator built with HTML, CSS, and JavaScript. This project provides fundamental arithmetic operations and a clean, user-friendly interface.</p>
 
 <b>Features</b>
 <ul>
@@ -10,34 +11,48 @@ A basic calculator built with HTML, CSS, and JavaScript. This project provides f
 </u>
 
 <b>Getting Started</b>
-To use this calculator, you can open the Calculator.html file in any web browser.
+<p>To use this calculator, you can open the Calculator.html file in any web browser.</p>
 
 <b>Installation</b>
-Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+<ul>
+<li>Clone the repository:</li>
+<p>git clone https://github.com/your-username/your-repo-name.git</p>
 
-Navigate to the project directory:
-cd your-repo-name
+<li>Navigate to the project directory:</li>
+<p>cd your-repo-name</p>
 
-Open Calculator.html in a web browser of your choice.
+<li>Open Calculator.html in a web browser of your choice.</li>
 
 <b>Usage</b>
-Click the number buttons to input numbers.
-Click the operator buttons (+, -, *, /) to choose an operation.
-Click = to calculate the result.
-Click C to clear the current input.
-Click ← to delete the last character.
-Click . to add a decimal point.
+<ul>
+  <li>Click the operator buttons (+, -, *, /) to choose an operation.</li>
+  <li>
+Click C to clear the current input.</li>
+  <li>
+
+Click ← to delete the last character.</li>
+   <li>
+     Click . to add a decimal point.
+   </li>
+</ul>
+
+
+
 <b>Files</b>
-Calculator.html: The HTML file containing the structure of the calculator.
+<li>
+  Calculator.html: The HTML file containing the structure of the calculator.
 Calculator.css: The CSS file for styling the calculator.
 Calculator.js: The JavaScript file that contains the logic for performing calculations.
+</li>
+
 
 <b>Contributing</b>
-If you want to contribute improvements or fixes, please fork the repository and submit a pull request. Follow the existing code style for consistency.
+<p>If you want to contribute improvements or fixes, please fork the repository and submit a pull request. Follow the existing code style for consistency.</p>
 
 <b>License</b>
-This project is licensed under the MIT License. See the LICENSE file for details.
+<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
+
 
 <b>Contact</b>
-For questions or feedback, you can reach me at aruna.techbox@gmail.com.
+<p>For questions or feedback, you can reach me at aruna.techbox@gmail.com.</p>
+</body>
