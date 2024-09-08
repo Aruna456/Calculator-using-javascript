@@ -16,10 +16,10 @@
 <b>Installation</b>
 <ul>
 <li>Clone the repository:</li>
-<p>git clone https://github.com/your-username/your-repo-name.git</p>
+<p>git clone https://github.com/Aruna456/Calculator-using-javascript.git</p>
 
 <li>Navigate to the project directory:</li>
-<p>cd your-repo-name</p>
+<p>cd Calculator-using-javascript</p>
 
 <li>Open Calculator.html in a web browser of your choice.</li>
 </ul>
