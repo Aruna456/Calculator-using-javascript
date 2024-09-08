@@ -22,7 +22,7 @@
 <p>cd your-repo-name</p>
 
 <li>Open Calculator.html in a web browser of your choice.</li>
-
+</ul>
 <b>Usage</b>
 <ul>
   <li>Click the operator buttons (+, -, *, /) to choose an operation.</li>
@@ -39,12 +39,15 @@ Click ← to delete the last character.</li>
 
 
 <b>Files</b>
-<li>
+<ul>
+  <li>
   Calculator.html: The HTML file containing the structure of the calculator.
 </li>
 <li>Calculator.css: The CSS file for styling the calculator.</li>
 <li>
 Calculator.js: The JavaScript file that contains the logic for performing calculations.</li>
+</ul>
+
 
 <b>Contributing</b>
 <p>If you want to contribute improvements or fixes, please fork the repository and submit a pull request. Follow the existing code style for consistency.</p>
