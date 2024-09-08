@@ -41,10 +41,10 @@ Click ← to delete the last character.</li>
 <b>Files</b>
 <li>
   Calculator.html: The HTML file containing the structure of the calculator.
-Calculator.css: The CSS file for styling the calculator.
-Calculator.js: The JavaScript file that contains the logic for performing calculations.
 </li>
-
+<li>Calculator.css: The CSS file for styling the calculator.</li>
+<li>
+Calculator.js: The JavaScript file that contains the logic for performing calculations.</li>
 
 <b>Contributing</b>
 <p>If you want to contribute improvements or fixes, please fork the repository and submit a pull request. Follow the existing code style for consistency.</p>
